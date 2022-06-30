@@ -1,4 +1,5 @@
 # Recriando a página inicial do Instagram
 
-### Usando Html e css com flexbox.
+### Utilizando HTML e CSS com flexbox:
 
+![Imagem do index](images/printTela.JPG)
